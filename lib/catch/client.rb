@@ -2,6 +2,7 @@ module Catch
   class Client
     include Comment
     include Note
+    include Place
     include Search
     include Tag
     include User
